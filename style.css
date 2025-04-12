@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+	background-image:url(https://e1.edimdoma.ru/data/posts/0002/3195/23195-ed4_wide.jpg?1631192824);
+	color: black;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+.container{
+	background: white;
+	padding: 20px;
+	border-radius: 15px;
+	width: 600px;
+}
+header{
+	margin-bottom: 30px;
+}
+.title{
+	color: red;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+.subtitle{
+	font-size: 15px;
+	color: blue;
+}
